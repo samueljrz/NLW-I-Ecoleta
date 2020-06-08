@@ -23,13 +23,13 @@ Project developed during the <strong>Next Level Week</strong> that aims to facil
 ## 🌐 Web
 
 <h1 align="center">
-    <img src=".github/ecoleta-web.gif" />
+    <img src=".github/ecoleta-web.png" />
 </h1>
 
 ## 📱 Mobile
 
 <h1 align="center">
-    <img src=".github/ecoleta-mobile.gif" />
+    <img src=".github/ecoleta-mobile.png" />
 </h1>
 
 <br />
