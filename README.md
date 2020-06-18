@@ -53,7 +53,7 @@ This project was developed with the following technologies:
 
 ```bash
 # Clone this rep
-$ git clone https://github.com/ronnyacacio/ecoleta.git
+$ git clone https://github.com/samueljrz/NLW-I-Ecoleta
 
 # Navegation until the api archive and execute following comands:
 $ npx knex migrate:latest
